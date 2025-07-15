@@ -43,22 +43,22 @@ If your editor auto wraps lines, bounce now.
 
 ## Table of Contents
 
-1.  Background
-2.  Blocked Domains & API Keys
-3.  Bypass Techniques
-    1.  Remote Desktop and Screen Sharing
-    2.  VPNs and Tunnels
-    3.  Browser Extensions
-    4.  API Wrappers
-    5.  Self-hosted Chatbot Frontends
-    6.  Cloud Function Proxies
-    7.  IDE Plugins
-    8.  SOCKS/SSH Tunneling
-    9.  Local LLMs
-4.  Why These Still Work
-5.  Defensive Countermeasures
-6.  Detection Techniques
-7.  Resources
+1. [Background](#background)
+2. [Blocked Domains & API Keys](#blocked-domains--api-keys)
+3. [Bypass Techniques](#bypass-techniques)
+   - [Remote Desktop and Screen Sharing](#1-remote-desktop-and-screen-sharing)
+   - [VPNs and Tunnels](#2-vpns-and-tunnels)
+   - [Browser Extensions](#3-browser-extensions)
+   - [API Wrappers](#4-api-wrappers)
+   - [Self-hosted Chatbot Frontends](#5-self-hosted-chatbot-frontends)
+   - [Cloud Function Proxies](#6-cloud-function-proxies)
+   - [IDE Plugins](#7-ide-plugins)
+   - [SOCKS/SSH Tunneling](#8-socksssh-tunneling)
+   - [Local LLMs](#9-local-llms)
+4. [Why These Still Work](#why-these-still-work)
+5. [Defensive Countermeasures](#defensive-countermeasures)
+6. [Detection Techniques](#detection-techniques)
+7. [Resources](#resources)
 
 ---
 
