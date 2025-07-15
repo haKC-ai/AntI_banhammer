@@ -1,6 +1,36 @@
 # AntI Banhammer: Bypass techniques
 
 
+![ha](https://github.com/user-attachments/assets/222089c5-7113-41af-a87f-3a9f4f6b6b10)
+
+```
+NAME............................................haKC.ai  
+Collective...............................[COP DETECTED]  
+System...........................BeOS / MacOS / WinD0$3  
+Size...................................[IN PROGRESS...]  
+Supplied by................................./dev/CØR.23  
+Release date.......................................1994  
+
+GROUP NEWS: Be a real one and contribute.  
+
+NFO: Curated stash of AI tools, banner rigs, and  
+     scroller ready drip.  
+
+GR33TZ: SecKC, LEGACY CoWTownComputerCongress, ACiD,  
+        iCE, T$A, +o--, badge lords  
+
+SHOUTZ:  
+[*] 14.4k Modem Jammers  
+[*] l33t soulz still patching proggies &  
+    huntin’ sick ANSIs for their AOHELL punter  
+
+FU to [LAMERZ] still using WordPad  
+If your editor auto wraps lines, bounce now.  
+
+───── ▓ signed, /dev/CØR.23: ▓ ─────  
+"nano > vim. come fight us."
+```                                                                
+
 **Service Status:**
 
 ![ChatGPT: Online](https://img.shields.io/badge/ChatGPT-Online-brightgreen?logo=openai)![Gemini: Online](https://img.shields.io/badge/Gemini-Online-blue?logo=google)![Claude: Online](https://img.shields.io/badge/Claude-Online-purple?logo=anthropic)![Mistral: Online](https://img.shields.io/badge/Mistral-Online-yellow?logo=mistralai)![Hugging Face: Online](https://img.shields.io/badge/Hugging%20Face-Online-yellowgreen?logo=huggingface)
